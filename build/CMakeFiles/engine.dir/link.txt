@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/engine.dir/src/main.c.o CMakeFiles/engine.dir/src/core/engine.c.o CMakeFiles/engine.dir/src/platform/platform.c.o -o engine  /usr/local/lib/libraylib.a -lm 
